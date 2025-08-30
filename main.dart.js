@@ -68721,13 +68721,13 @@ K(a){return A.po(new A.Wb(),B.T,new A.aA(this.c,this.d,t.Y),t.i)}}
 A.Wb.prototype={
 $3(a,b,c){var s=null,r=t.w,q=A.aO(a,B.z,r).w.a.a<=700?"\n":""
 r=!(A.aO(a,B.z,r).w.a.a<=700)?"\n":""
-return A.d1("I use Flutter and Dart to quickly turn app ideas into reality, "+q+"focusing on fast "+r+"development and visually striking UIs.",2,B.bi,A.ph(s,s,B.f7,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2))},
+return A.d1("I use my software dev skills to quickly turn app ideas into reality, "+q+"focusing on fast "+r+"development and visually striking UIs.",2,B.bi,A.ph(s,s,B.f7,s,s,s,s,s,s,s,s,b,s,s,s,s,s,!0,s,s,s,s,s,s,s,2))},
 $S:74}
 A.Gw.prototype={
 K(a){var s=null,r=A.dD(20),q=A.c([B.au,B.cv],t.W)
 return A.o8(!1,s,!0,A.dW(B.a_,A.f1(A.c([A.d1("Download CV",s,s,A.an(a).ok.ax.Mq(B.i,B.a8,1.2)),B.PY,B.Gx],t.p),B.G,B.C),B.w,s,s,new A.cX(s,s,s,r,B.im,new A.ha(B.xU,B.xT,B.aF,q,s,s),B.a5),s,s,s,B.FP,s,s,s),s,!0,s,s,s,s,s,s,new A.YN(),s,s,s)}}
 A.YN.prototype={
-$0(){A.iV(A.dO("https://drive.google.com/file/d/1r2MMygKOGhnAxtCRUIcXf4zfDUbChhp9/view?usp=sharing",0,null))},
+$0(){A.iV(A.dO("https://drive.google.com/file/d/1k9sAWTWuGF_96ywAhmvDPxGIfjoOcUEc/view?usp=sharing",0,null))},
 $S:0}
 A.ow.prototype={
 K(a){return new A.j3(new A.a5f(this),null)}}
@@ -79463,29 +79463,29 @@ B.O0=new A.yA(2,"paint")
 B.c9=new A.yA(3,"layout")
 B.O1=new A.Kr(0,"raster")
 B.O2=new A.Kr(1,"picture")
-B.yl=new A.fh(30,40,"Flutter ",!1,null)
-B.yg=new A.fh(30,25,"Flutter ",!1,null)
-B.ye=new A.fh(25,20,"Flutter ",!1,null)
-B.yd=new A.fh(40,30,"Flutter ",!1,null)
-B.O3=new A.jz(B.yl,B.yg,B.ye,B.yd,null,null)
+B.yh=new A.fh(30,40,"Software ",!1,null)
+B.yf=new A.fh(30,25,"Software ",!1,null)
+B.yd=new A.fh(25,20,"Software ",!1,null)
+B.yg=new A.fh(40,30,"Software ",!1,null)
+B.O3=new A.jz(B.yh,B.yf,B.yd,B.yg,null,null)
 B.xW=new A.pW(14,15,null)
 B.ka=new A.pW(14,12,null)
 B.xX=new A.pW(17,14,null)
 B.O4=new A.jz(B.xW,B.ka,B.ka,B.xX,null,null)
-B.yj=new A.fh(30,40,"Developer ",!0,null)
-B.yh=new A.fh(30,25,"Developer ",!0,null)
+B.yk=new A.fh(30,40,"Developer ",!0,null)
+B.yi=new A.fh(30,25,"Developer ",!0,null)
 B.kb=new A.fh(25,20,"Developer ",!0,null)
 B.yc=new A.fh(40,30,"Developer ",!0,null)
-B.O5=new A.jz(B.yj,B.yh,B.kb,B.yc,null,null)
+B.O5=new A.jz(B.yk,B.yi,B.kb,B.yc,null,null)
 B.LL=new A.ow(40,50,null)
 B.LK=new A.ow(40,35,null)
 B.LJ=new A.ow(35,30,null)
 B.LM=new A.ow(50,40,null)
 B.O6=new A.jz(B.LL,B.LK,B.LJ,B.LM,null,null)
-B.yk=new A.fh(30,40,"Developer ",!1,null)
-B.yi=new A.fh(30,25,"Developer ",!1,null)
-B.yf=new A.fh(40,30,"Developer ",!1,null)
-B.O7=new A.jz(B.yk,B.yi,B.kb,B.yf,null,null)
+B.yl=new A.fh(30,40,"Developer ",!1,null)
+B.yj=new A.fh(30,25,"Developer ",!1,null)
+B.ye=new A.fh(40,30,"Developer ",!1,null)
+B.O7=new A.jz(B.yl,B.yj,B.kb,B.ye,null,null)
 B.O8=new A.dt(B.af,B.u)
 B.fk=new A.bf(2,2)
 B.za=new A.d6(B.fk,B.fk,B.fk,B.fk)
